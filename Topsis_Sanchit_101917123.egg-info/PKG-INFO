@@ -1,3 +1,18 @@
+Metadata-Version: 2.1
+Name: Topsis-Sanchit-101917123
+Version: 0.0.1
+Summary: A package -> Calculates Topsis Score and Rank them accordingly
+Home-page: https://github.com/sanchit36/topsis_sanchit
+Author: Sanchit Bhadgal
+Author-email: sanchitbhadgal36@gmail.com
+License: MIT
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 ## topis_sanchit
 
 # TOPSIS
@@ -32,7 +47,7 @@ and greatest distance from the negative-ideal solution.
 ## How to install this package:
 
 ```
->> pip install Topsis-Sanchit-101917123
+>> pip install TOPSIS-Sanchit-101917123
 ```
 
 ### In Command Prompt
@@ -72,3 +87,4 @@ Information of benefit positive(+) or negative(-) impact criteria should be prov
 ---
 
 The output file contains columns of input file along with two additional columns having __Topsis_score__ and __Rank__
+
